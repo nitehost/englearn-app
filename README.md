@@ -1,3 +1,3 @@
 # englearn-app
 
-Testing app for learning english
+App for testing to learning english
